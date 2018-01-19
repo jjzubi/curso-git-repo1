@@ -98,3 +98,6 @@ main {
       padding-bottom: 10px;
     }
   
+  footer p {
+    font-size: 10px; 
+  }
