@@ -1,4 +1,5 @@
 /* Fichero CSS para completar */
+
 body {
     width: 70%;
     margin: 0 auto;
@@ -25,4 +26,18 @@ body {
     text-align: center;
     flex: 1;
   }
+
+
+main {
+      display: flex;
+    }
+    
+    article {
+      flex: 4;
+    }
+    
+    aside {
+      flex: 1;
+      margin-left: 10px;
+    }
   
